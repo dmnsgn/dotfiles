@@ -1,8 +1,10 @@
 brew tap caskroom/versions
 
 apps=(
+	adobe-reader
 	android-file-transfer
 	betterzipql
+	bfxr
 	blender
 	caffeine
 	dropbox
@@ -12,30 +14,35 @@ apps=(
 	fontprep
 	google-chrome
 	google-chrome-canary
+	google-drive
 	google-hangouts
 	imagealpha
 	imageoptim
 	iterm2
+	licecap
 	macvim
 	miro-video-converter
 	mou
 	namechanger
+	private-internet-access
 	qlcolorcode
 	qlimagesize
 	qlmarkdown
 	quicklook-json
+	skype
+	slack
 	sourcetree
+	spectacle
+	steam
 	sublime-text3
+	texturepacker
 	the-unarchiver
 	transmission
 	ukelele
 	virtualbox
 	vlc
 	xampp
-	skype
-	slack
-	steam
-	texturepacker
+	xtrafinder
 )
 
 # Install apps to /Applications
