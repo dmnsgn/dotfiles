@@ -20,7 +20,6 @@ apps=(
 	imageoptim
 	iterm2
 	licecap
-	macvim
 	miro-video-converter
 	mou
 	namechanger
@@ -29,6 +28,7 @@ apps=(
 	qlimagesize
 	qlmarkdown
 	quicklook-json
+	rocket
 	skype
 	slack
 	sourcetree
@@ -41,8 +41,6 @@ apps=(
 	ukelele
 	virtualbox
 	vlc
-	xampp
-	xtrafinder
 )
 
 # Install apps to /Applications
