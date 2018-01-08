@@ -12,23 +12,23 @@ apps=(
 	firefox
 	flux
 	fontprep
+	gltfquicklook
 	google-chrome
 	google-chrome-canary
+	google-cloud-sdk
 	google-drive
 	google-hangouts
 	imagealpha
 	imageoptim
 	iterm2
 	licecap
-	miro-video-converter
-	mou
 	namechanger
+	plex-media-server
 	private-internet-access
 	qlcolorcode
 	qlimagesize
 	qlmarkdown
 	quicklook-json
-	rocket
 	skype
 	slack
 	sourcetree
@@ -38,7 +38,6 @@ apps=(
 	texturepacker
 	the-unarchiver
 	transmission
-	ukelele
 	virtualbox
 	vlc
 )
