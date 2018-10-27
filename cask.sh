@@ -6,6 +6,7 @@ apps=(
 	betterzipql
 	bfxr
 	blender
+	brave
 	caffeine
 	dropbox
 	filezilla
@@ -29,7 +30,6 @@ apps=(
 	qlimagesize
 	qlmarkdown
 	quicklook-json
-	skype
 	slack
 	sourcetree
 	spectacle
@@ -39,6 +39,7 @@ apps=(
 	the-unarchiver
 	transmission
 	virtualbox
+	visual-studio-code
 	vlc
 )
 
