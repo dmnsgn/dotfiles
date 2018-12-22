@@ -19,6 +19,7 @@ apps=(
 	google-cloud-sdk
 	google-drive
 	google-hangouts
+	handbrake
 	imagealpha
 	imageoptim
 	iterm2
@@ -38,6 +39,9 @@ apps=(
 	texturepacker
 	the-unarchiver
 	transmission
+	unity
+	unity-webgl-support-for-editor
+	unity-web-player
 	virtualbox
 	visual-studio-code
 	vlc
