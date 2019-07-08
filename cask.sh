@@ -23,6 +23,7 @@ apps=(
 	imagealpha
 	imageoptim
 	iterm2
+	keycastr
 	licecap
 	namechanger
 	plex-media-server
