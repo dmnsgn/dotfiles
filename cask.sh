@@ -14,10 +14,10 @@ apps=(
 	flux
 	fontprep
 	gltfquicklook
+	google-backup-and-sync
 	google-chrome
 	google-chrome-canary
 	google-cloud-sdk
-	google-drive
 	google-hangouts
 	handbrake
 	imagealpha
