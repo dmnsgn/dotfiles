@@ -3,6 +3,7 @@ brew tap caskroom/versions
 apps=(
 	adobe-reader
 	android-file-transfer
+	bettertouchtool
 	betterzipql
 	bfxr
 	blender
@@ -12,19 +13,20 @@ apps=(
 	filezilla
 	firefox
 	flux
-	fontprep
+	fontplop
 	gltfquicklook
 	google-backup-and-sync
 	google-chrome
 	google-chrome-canary
-	google-cloud-sdk
-	google-hangouts
 	handbrake
 	imagealpha
+	imagemin
 	imageoptim
 	iterm2
+	kap
 	keycastr
 	licecap
+	microsoft-edge
 	namechanger
 	plex-media-server
 	private-internet-access
@@ -32,12 +34,13 @@ apps=(
 	qlimagesize
 	qlmarkdown
 	quicklook-json
+	runway
 	slack
 	sourcetree
 	spectacle
-	steam
+	spotify
 	sublime-text3
-	texturepacker
+	teamviewer
 	the-unarchiver
 	transmission
 	unity
