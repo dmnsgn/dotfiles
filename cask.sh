@@ -1,23 +1,18 @@
-brew tap caskroom/versions
-
 apps=(
-	adobe-reader
 	android-file-transfer
-	bettertouchtool
-	betterzipql
-	bfxr
+	anydesk
+	beardedspice
+	betterzip
 	blender
-	brave
+	brave-browser
 	caffeine
 	dropbox
-	filezilla
 	firefox
 	flux
 	fontplop
-	gltfquicklook
-	google-backup-and-sync
+	google-drive
 	google-chrome
-	google-chrome-canary
+	#google-chrome-canary
 	handbrake
 	imagealpha
 	imagemin
@@ -25,27 +20,22 @@ apps=(
 	iterm2
 	kap
 	keycastr
-	licecap
-	microsoft-edge
 	namechanger
-	plex-media-server
-	private-internet-access
+	notunes
+	#private-internet-access
 	qlcolorcode
 	qlimagesize
 	qlmarkdown
 	quicklook-json
-	runway
 	slack
 	sourcetree
 	spectacle
 	spotify
-	sublime-text3
-	teamviewer
+	stats
+	#sublime-text3
+	#teamviewer
 	the-unarchiver
 	transmission
-	unity
-	unity-webgl-support-for-editor
-	unity-web-player
 	virtualbox
 	visual-studio-code
 	vlc
@@ -53,10 +43,7 @@ apps=(
 
 # Install apps to /Applications
 # Default is: /Users/$user/Applications
-brew cask install --appdir="/Applications" ${apps[@]}
+brew install --cask --appdir="/Applications" ${apps[@]}
 
 # Clean up downloads
-brew cask cleanup
-
-# Link alfred app
-# brew cask alfred link
+brew cleanup
