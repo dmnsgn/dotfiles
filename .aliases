@@ -10,12 +10,11 @@ alias -- -="cd -"
 
 # Shortcuts
 alias d="cd ~/Google\ Drive"
+alias db="cd ~/Dropbox"
 alias dl="cd ~/Downloads"
 alias dt="cd ~/Desktop"
 alias p="cd ~/Projects"
 alias g="git"
-alias s="subl ."
-alias sourcetree="open -a SourceTree"
 alias o="open"
 alias oo="open ."
 

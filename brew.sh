@@ -70,7 +70,7 @@ brew install gmp
 # brew install john
 # brew install knock
 # brew install netpbm
-# brew install nmap
+brew install nmap
 brew install pngcheck
 # brew install socat
 # brew install sqlmap
@@ -101,11 +101,11 @@ brew install vbindiff
 brew install zopfli
 
 # Custom
+brew install gh
 brew install glslang
 brew install automake
 brew install ffmpeg
 brew install findutils
-brew install glslang
 brew install mysql
 brew install n
 brew install pulseaudio

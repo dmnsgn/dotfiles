@@ -15,13 +15,15 @@ apps=(
 	#google-chrome-canary
 	handbrake
 	imagealpha
-	imagemin
 	imageoptim
 	iterm2
 	kap
 	keycastr
+	midikeys
+	monitorcontrol
 	namechanger
 	notunes
+	obs
 	#private-internet-access
 	qlcolorcode
 	qlimagesize
