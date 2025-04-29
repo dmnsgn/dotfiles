@@ -12,7 +12,6 @@ apps=(
 	fontplop
 	google-drive
 	google-chrome
-	#google-chrome-canary
 	handbrake
 	imagealpha
 	imageoptim
@@ -24,18 +23,13 @@ apps=(
 	namechanger
 	notunes
 	obs
-	#private-internet-access
-	qlcolorcode
-	qlimagesize
 	qlmarkdown
-	quicklook-json
 	slack
 	sourcetree
 	spectacle
 	spotify
 	stats
-	#sublime-text3
-	#teamviewer
+	syntax-highlight
 	the-unarchiver
 	transmission
 	virtualbox
